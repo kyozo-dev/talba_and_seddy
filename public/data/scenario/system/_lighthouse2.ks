@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/tas_background/big_seddy1.PNG"  ]
+[preload  storage="./data/bgimage/tas_background/big_seddy3.PNG"  ]
+[preload  storage="./data/bgimage/tas_background/seddy_debris.PNG"  ]
+[preload  storage="./data/bgimage/tas_background/background_d.png"  ]
+[preload  storage="./data/bgimage/tas_background/bug_butterfly.PNG"  ]
+[preload  storage="./data/bgimage/tas_background/talba_arm_2.PNG"  ]
+[return]
