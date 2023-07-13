@@ -3,7 +3,7 @@
 [cm  ]
 [tb_hide_message_window  ]
 [bg  time="1000"  method="crossfade"  storage="tas_background/background_d.png"  ]
-[tb_ptext_show  x="61"  y="164"  size="30"  color="0xffffff"  time="1000"  anim="false"  face="KH-Dot-Akihabara-16"  text="事前警告Dayo!／Ｔｒｉｇｇｅｒ　ｗａｒｎｉｎｇ"  edge="undefined"  shadow="undefined"  ]
+[tb_ptext_show  x="61"  y="164"  size="30"  color="0xffffff"  time="1000"  anim="false"  face="KH-Dot-Akihabara-16"  text="事前警告dayo2!!!!／Ｔｒｉｇｇｅｒ　ｗａｒｎｉｎｇ"  edge="undefined"  shadow="undefined"  ]
 [tb_ptext_show  x="128"  y="257"  size="30"  color="0xffffff"  time="1000"  anim="false"  face="KH-Dot-Akihabara-16"  text="この作品には　以下の表現が含まれます："  edge="undefined"  shadow="undefined"  ]
 [tb_ptext_show  x="160"  y="314"  size="30"  color="0xffffff"  time="1000"  text="精神的・物理的な暴力／差別／強い言葉"  anim="false"  face="KH-Dot-Akihabara-16"  edge="undefined"  shadow="undefined"  ]
 [tb_ptext_show  x="160"  y="370"  size="30"  color="0xffffff"  time="1000"  text="攻撃的な表現／肉体の破損"  face="KH-Dot-Akihabara-16"  anim="false"  edge="undefined"  shadow="undefined"  ]

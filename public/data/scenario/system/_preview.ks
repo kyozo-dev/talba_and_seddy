@@ -1,4 +1,3 @@
-[hidemenubutton] 
 [preload  storage="./data/bgimage/tas_background/background_d.png"  ]
 [preload  storage="./data/bgimage/lighthouse.PNG"  ]
 [preload  storage="./data/bgimage/seddy.PNG"  ]
