@@ -1,9 +1,9 @@
 var __tyrano_key_config = {
 	"key": {
 		"13": "next",
-		"17": "skip",
-		"32": "hidemessage",
-		"91": "skip"
+		"17": "",
+		"32": "",
+		"91": ""
 	},
 	"mouse": {
 		"right": "",
@@ -13,19 +13,19 @@ var __tyrano_key_config = {
 	},
 	"gesture": {
 		"swipe_up_1": {
-			"action": "backlog"
+			"action": ""
 		},
 		"swipe_left_1": {
-			"action": "auto"
+			"action": ""
 		},
 		"swipe_right_1": {
-			"action": "menu"
+			"action": ""
 		},
 		"swipe_down_1": {
-			"action": "load"
+			"action": ""
 		},
 		"hold": {
-			"action": "skip"
+			"action": ""
 		}
 	}
 }
