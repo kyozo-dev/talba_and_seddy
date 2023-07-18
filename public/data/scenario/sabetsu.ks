@@ -1,7 +1,5 @@
-[_tb_system_call storage=system/_preview.ks ]
+[_tb_system_call storage=system/_sabetsu.ks]
 
-[mask time=10]
-[mask_off time=10]
 [cm  ]
 [bg  time="300"  method="crossfade"  storage="tas_background/sabetsu1_2.png"  ]
 [button  storage="sabetsu.ks"  target="*sabetsu2"  graphic="tas_button/next.png"  width="237"  height="44"  x="34"  y="570"  _clickable_img=""  name="img_2"  ]

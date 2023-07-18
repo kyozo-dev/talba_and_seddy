@@ -73,7 +73,7 @@
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="tas_background/background_d.png"  ]
-[chara_show  name="ドクター"  time="1000"  wait="true"  storage="chara/5/doctor_1.PNG"  width="960"  height="640"  left=""  top=""  reflect="false"  ]
+[chara_show  name="ドクター"  time="1000"  wait="true"  storage="chara/1/doctor_1.PNG"  width="960"  height="640"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
 白衣を着た者が　タルバを出迎えます[p]
@@ -95,7 +95,7 @@
 虚しいな[p]
 [_tb_end_text]
 
-[chara_mod  name="ドクター"  time="600"  cross="true"  storage="chara/5/doctor_2.PNG"  ]
+[chara_mod  name="ドクター"  time="600"  cross="true"  storage="chara/1/doctor_2.PNG"  ]
 [tb_start_text mode=1 ]
 #ドクター
 ……ではタルバさん　今日から君はバグハンターだ[r]バグを倒したり　捕まえたりして　研究に協力してくれ[p]
@@ -105,7 +105,7 @@
 タルバは　ドクターに書類を渡して[r]差し出されたハンマーを　受け取りました[p]
 [_tb_end_text]
 
-[chara_mod  name="ドクター"  time="600"  cross="true"  storage="chara/5/doctor_1.PNG"  ]
+[chara_mod  name="ドクター"  time="600"  cross="true"  storage="chara/1/doctor_1.PNG"  ]
 [tb_start_text mode=1 ]
 #ドクター
 愚痴はこのあたりでやめにして　そのハンマーの説明をしよう[p]
@@ -276,7 +276,7 @@
 バグは　タルバに　ぐっと詰め寄りました[r]タルバは　恐怖で体を動かすことができません　何せハンマーを持っていないのです[p]
 #バグ
 かわいいやつだな……“バグ”が　夢の中にまで入ってきた！　怖い！[r]そう思ってるのだね？[p]
-違うぞタルバ　今は“君“が私の夢の中に入ってきたんだ[r]ただ私は君を怖いとは思わない[p]
+違うぞタルバ　今は“君”が私の夢の中に入ってきたんだ[r]ただ私は君を怖いとは思わない[p]
 君が　私たちに興味を持っているのを知っている[r]くだらんことしか書いていないガイドブックは捨てろ　私が全てを教えてやる[p]
 まずはいいことを　教えてやろう[r]とっておきの　いいことだ……[p]
 「後悔する前に　灯台に来て」　……セディからの伝言だよ[p]
@@ -302,7 +302,7 @@
 気分転換に散歩でもしようと　タルバはいつもの道を歩きます[p]
 [_tb_end_text]
 
-[chara_show  name="ドクター"  time="1000"  wait="true"  storage="chara/5/doctor_1.PNG"  width="960"  height="640"  left=""  top=""  reflect="false"  ]
+[chara_show  name="ドクター"  time="1000"  wait="true"  storage="chara/1/doctor_1.PNG"  width="960"  height="640"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ドクター
 おや　タルバさん[p]
@@ -314,7 +314,7 @@
 
 [chara_hide  name="ドクター"  time="1"  wait="true"  pos_mode="true"  ]
 [bg  time="1"  method="crossfade"  storage="tas_background/background_d.png"  ]
-[chara_show  name="bug2"  time="1"  wait="true"  storage="chara/7/bug_balloon.PNG"  width="960"  height="640"  left=""  top=""  reflect="false"  ]
+[chara_show  name="bug2"  time="1"  wait="true"  storage="chara/2/bug_balloon.PNG"  width="960"  height="640"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
 #バグ
 「後悔する前に　灯台に来て」[p]
@@ -324,7 +324,7 @@
 [chara_hide  name="bug2"  time="1"  wait="true"  pos_mode="true"  ]
 [mask_off  time="10"  effect="fadeOut"  ]
 [bg  time="100"  method="crossfade"  storage="tas_background/road.PNG"  ]
-[chara_show  name="ドクター"  time="10"  wait="true"  storage="chara/5/doctor_1.PNG"  width="960"  height="640"  ]
+[chara_show  name="ドクター"  time="10"  wait="true"  storage="chara/1/doctor_1.PNG"  width="960"  height="640"  ]
 [tb_start_text mode=1 ]
 #
 タルバは　夢の中でバグから告げられたことを思い出しました[p]
@@ -345,7 +345,7 @@
 少し歩いたころ[r]ふたりの先には　誰かが立っているのが見えました[p]
 [_tb_end_text]
 
-[chara_show  name="bug3"  time="100"  wait="true"  storage="chara/8/bug_cool.PNG"  width="960"  height="640"  ]
+[chara_show  name="bug3"  time="100"  wait="true"  storage="chara/3/bug_cool.PNG"  width="960"  height="640"  ]
 [tb_start_text mode=1 ]
 #
 道の真ん中に　バグが立っています[r]タルバは　ハンマーを構えました[p]
@@ -385,7 +385,7 @@
 
 [chara_hide  name="bug3"  time="1"  wait="true"  pos_mode="true"  ]
 [bg  time="1"  method="crossfade"  storage="tas_background/background_d.png"  ]
-[chara_show  name="ドクター"  time="1"  wait="true"  storage="chara/5/doctor_1.PNG"  width="960"  height="640"  ]
+[chara_show  name="ドクター"  time="1"  wait="true"  storage="chara/1/doctor_1.PNG"  width="960"  height="640"  ]
 [tb_start_text mode=1 ]
 #ドクター
 だがどうして　そう疑問に思った？[p]
