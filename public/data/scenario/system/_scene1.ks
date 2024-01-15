@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/classroom.png"  ]
+[preload  storage="./data/fgimage/chara/1/alice_straight.png"  ]
+[preload  storage="./data/fgimage/chara/2/teo_smile.png"  ]
+[preload  storage="./data/fgimage/chara/1/alice_smile.png"  ]
+[preload  storage="./data/fgimage/chara/1/alice_straight1.png"  ]
+[return]

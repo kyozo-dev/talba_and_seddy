@@ -1,0 +1,20 @@
+[_tb_system_call storage=system/_scene7_nanimoshinai.ks]
+
+[cm  ]
+[tb_show_message_window  ]
+[bg  time="500"  method="crossfade"  storage="black.png"  ]
+[tb_start_text mode=1 ]
+#
+リンは　結局なにもしませんでした[r]親友の首が斬り落とされるのを　ただ呆然と眺めていました[p]
+翌日から　変わりのない日常がはじまりました[p]
+間もないうちに　世界では各地で戦争がはじまり[r]飢餓の拡大や　疫病の流行が進みました[p]
+ひとびとは苦しみ続け　数世代それが進んだあと[r]世界はボロボロになり　滅んでしまいました[p]
+愚かな人間たちのせいで　世界は滅び[r]あまたの命が　犠牲になりました[p]
+苦痛が蔓延した最後の世界は　どんなものだったのでしょうか……[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[bg  time="1500"  method="crossfade"  storage="kizawa_satoshi.png"  ]
+[l  ]
+[jump  storage="title_screen.ks"  target=""  ]
+[s  ]
