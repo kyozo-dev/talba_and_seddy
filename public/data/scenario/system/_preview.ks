@@ -1,5 +1,0 @@
-[preload  storage="./data/bgimage/tas_background/sabetsu1_2.png"  ]
-[preload  storage="./data/bgimage/tas_background/sabetsu2_2.png"  ]
-[preload  storage="./data/bgimage/tas_background/sabetsu3_2.png"  ]
-[preload  storage="./data/bgimage/tas_background/sabetsu4_2.png"  ]
-[return] 
