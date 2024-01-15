@@ -4,8 +4,8 @@
 [tb_hide_message_window  ]
 [bg  time="1000"  method="crossfade"  storage="from_sakusha.png"  ]
 [cm  ]
-[button  storage="from_sakusha.ks"  target="*back_title"  graphic="back_title_アートボード_1.png"  width="278"  height="70"  x="500"  y="610"  _clickable_img=""  name="img_3"  ]
-[button  storage="from_sakusha.ks"  target="*next"  graphic="next_tsugi_アートボード_1.png"  width="278"  height="70"  x="850"  y="610"  _clickable_img=""  ]
+[button  storage="from_sakusha.ks"  target="*back_title"  graphic="back_title.png"  width="278"  height="70"  x="500"  y="610"  _clickable_img=""  name="img_3"  ]
+[button  storage="from_sakusha.ks"  target="*next"  graphic="next_tsugi.png"  width="278"  height="70"  x="850"  y="610"  _clickable_img=""  ]
 [s  ]
 *back_title
 
